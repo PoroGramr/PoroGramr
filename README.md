@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<h2>My tech stacks</h2>
+![Commit](https://img.shields.io/github/commit-activity/w/beygee/survive)
+![Commit](https://img.shields.io/github/last-commit/beygee/survive)
+
 <!--
 **HoyiTT/HoyiTT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
