@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h2>My tech stacks</h2>
-<img alt="git" src="https://img.shields.io/github/commit-activity/w/HoyiTT/survive"/>
+![GitHub Gist last commit](https://img.shields.io/github/gist/last-commit/HoyiTT)
 
 <!--
 **HoyiTT/HoyiTT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
