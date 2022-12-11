@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Junseo Park
 
 <h2>💻 My tech stacks</h2>
 
