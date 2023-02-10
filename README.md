@@ -5,15 +5,23 @@
 <img alt="Html" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> <img alt="Css" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/> <br>
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScriipt-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>       ![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ppp9177)
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HoyiTT&show_icons=true&theme=radical)
+<!-- ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HoyiTT&show_icons=true&theme=radical) -->
 
 
-<h2>TIL Last Commit</h2>
+<h2>📖 My Log</h2>
+<a href="https://hoyitt.tistory.com"><img src="https://img.shields.io/badge/HoyiTT-E5511E?style=flat-square&logo=Tistory&logoColor=white"/></a>
+<a href="https://awake-hedgehog-989.notion.site/80609dd5c3f240e79667424b2cdf4ba2)"><img src="https://img.shields.io/badge/HoyiTT-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
+
+
+<h2>⌨️ TIL Last Commit</h2>
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/HoyiTT/TIL)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=HoyiTT&show_icons=true&theme=radical)
+
+
+
 
 <!--
 **HoyiTT/HoyiTT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
