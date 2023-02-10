@@ -9,7 +9,7 @@
 
 
 <h2>📖 My Log</h2>
-<a href="https://hoyitt.tistory.com"><img src="https://img.shields.io/badge/HoyiTT-E5511E?style=flat-square&logo=Tistory&logoColor=white"/></a>
+<a href="https://jspark33.tistory.com"><img src="https://img.shields.io/badge/HoyiTT-E5511E?style=flat-square&logo=Tistory&logoColor=white"/></a>
 <a href="https://awake-hedgehog-989.notion.site/80609dd5c3f240e79667424b2cdf4ba2)"><img src="https://img.shields.io/badge/HoyiTT-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
 
 
