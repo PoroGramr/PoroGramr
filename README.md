@@ -1,4 +1,5 @@
-### Hi there 👋 I'm Junseo Park
+
+<h1 align="center">Hi there 👋 I'm Junseo Park</h1>
 
 <h2 align="center">💻 My tech stacks</h2>
 
@@ -18,7 +19,7 @@
 
 <!-- ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HoyiTT&show_icons=true&theme=radical) -->
 
-<h2 align="center">📖 My Log</h2>
+<h2 align="center">📖 My Log & Portfolio </h2>
 <p align="center">
   <a href="https://jspark33.tistory.com"><img src="https://img.shields.io/badge/HoyiTT-E5511E?style=flat-square&logo=Tistory&logoColor=white"/></a>
   <a href="https://hoyitt.notion.site/80609dd5c3f240e79667424b2cdf4ba2?pvs=4"><img src="https://img.shields.io/badge/HoyiTT-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
