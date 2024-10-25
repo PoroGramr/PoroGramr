@@ -32,7 +32,16 @@
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HoyiTT&show_icons=true&theme=radical" alt="Anurag's GitHub stats"/>
+  <a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/HoyiTT"
+  width="600"
+  height="300"
+/>
+</a>
 </p>
+
+
 
 <!--
 **HoyiTT/HoyiTT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
