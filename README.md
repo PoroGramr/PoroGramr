@@ -13,7 +13,6 @@
   <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ppp9177" alt="Solved.ac프로필"/>
   <br>
   <img src="https://img.shields.io/badge/WebAssembly-20232a.svg?style=for-the-badge&logo=webassembly&logoColor=654FF0"/>
-  <img src="https://img.shields.io/badge/llvm-20232a.svg?style=for-the-badge&logo=llvm&logoColor="FFFFFF"/>
 </p>
 
 <!-- ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HoyiTT&show_icons=true&theme=radical) -->
