@@ -25,14 +25,14 @@
 
 <h2 align="center">⌨️ TIL Last Commit</h2>
 <p align="center">
-  <img src="https://img.shields.io/github/last-commit/HoyiTT/TIL" alt="GitHub last commit"/>
+  <img src="https://img.shields.io/github/last-commit/PoroGramr/TIL" alt="GitHub last commit"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HoyiTT&show_icons=true&theme=radical" alt="Anurag's GitHub stats"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PoroGramr&show_icons=true&theme=radical" alt="Anurag's GitHub stats"/>
   <a href="https://github.com/devxb/gitanimals">
 <img
-  src="https://render.gitanimals.org/farms/HoyiTT"
+  src="https://render.gitanimals.org/farms/PoroGramr"
   width="600"
   height="300"
 />
