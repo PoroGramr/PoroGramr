@@ -4,15 +4,13 @@
 <h2 align="center">💻 My tech stacks</h2>
 
 <p align="center">
-  <img alt="Html" src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
-  <img alt="Css" src="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScriipt-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/>
-  <br>
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
-  <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ppp9177" alt="Solved.ac프로필"/>
-  <br>
-  <img src="https://img.shields.io/badge/WebAssembly-20232a.svg?style=for-the-badge&logo=webassembly&logoColor=654FF0"/>
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/redis-FF4438?style=for-the-badge&logo=redis&logoColor=white">
+  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
+  <img src="https://img.shields.io/badge/sonqrqube-4E98CD?style=for-the-badge&logo=sonarqube&logoColor=white">
+  
 </p>
 
 <!-- ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HoyiTT&show_icons=true&theme=radical) -->
@@ -21,6 +19,7 @@
 <p align="center">
   <a href="https://jspark33.tistory.com"><img src="https://img.shields.io/badge/HoyiTT-E5511E?style=flat-square&logo=Tistory&logoColor=white"/></a>
   <a href="https://hoyitt.notion.site/80609dd5c3f240e79667424b2cdf4ba2?pvs=4"><img src="https://img.shields.io/badge/HoyiTT-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
+  <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ppp9177" alt="Solved.ac프로필"/>
 </p>
 
 <h2 align="center">⌨️ TIL Last Commit</h2>
