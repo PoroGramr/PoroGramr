@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/redis-FF4438?style=for-the-badge&logo=redis&logoColor=white">
   <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
-  <img src="https://img.shields.io/badge/sonqrqube-4E98CD?style=for-the-badge&logo=sonarqube&logoColor=white">
+  <img src="https://img.shields.io/badge/sonarqube-4E98CD?style=for-the-badge&logo=sonarqube&logoColor=white">
   
 </p>
 
