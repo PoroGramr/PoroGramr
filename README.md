@@ -48,6 +48,7 @@
 - **서비스:** 웹 에이전시·고객사·개발사를 위한 효율적인 PMS  
 - **주요 기술 및 업무:**  
   - Spring Framework 기반 API 서버 설계·개발  
+  - 유저, 회사, 프로젝트 crud 구현
   - Front 개발: Claude AI, Cursor 활용  
   - CI/CD 구축: Jenkins  
   - AWS 배포 및 운영  
