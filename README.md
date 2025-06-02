@@ -38,67 +38,36 @@
 </a>
 </p>
 
+* * *
 
-### 프로젝트 경험
+### 교육 & 경력
+
+#### 커널 360 백엔드 심화 부트캠프 
+- **기간:** 2025.02 ~ 2025.05
+
+#### NSHC LLVM 연구소 인턴
+- **기간:** 2024.03 ~ 2024.06
+
+#### 공군 정보보호병
+- **기간:** 2021.01 ~ 2022.10
+
+#### 수원대학교 정보보호학과 졸업 예정
+- **기간:** 2019.03 ~ 2025.08
+
+* * *
+
+### 프로젝트
 
 #### [VIVIM (웹 에이전시 프로젝트 관리 서비스)](https://github.com/PoroGramr/KDEV4-VIVIM-BE)
 - **기간:** 2025.03 ~ 2025.04  
-- **역할:** 팀장  
-- **팀 구성:** 백엔드 개발 4명  
 - **서비스:** 웹 에이전시·고객사·개발사를 위한 효율적인 PMS  
-- **주요 기술 및 업무:**  
-  - Spring Framework 기반 API 서버 설계·개발  
-  - 유저, 회사, 프로젝트 crud 구현
-  - Front 개발: Claude AI, Cursor 활용  
-  - CI/CD 구축: Jenkins  
-  - AWS 배포 및 운영  
-
-#### [TemuOverflow (AI 기반 개발 오류 공유 서비스)](https://github.com/PoroGramr/hackerthon4-TemuOverflow)
-- **기간:** 2025.03 (해커톤)  
-- **성과:** 해커톤 1등  
-- **역할:** 팀장  
-- **팀 구성:** 백엔드 개발 4명  
-- **서비스:** AI 활용 개발 오류 질의응답 및 공유 커뮤니티  
-- **주요 기술 및 업무:**  
-  - Front 개발: Claude AI 활용  
-  - 채팅·댓글 생성 API: Claude API 사용  
-  - Spring Framework 기반 API 서버 개발  
-  - CI/CD 구축 및 AWS 배포  
 
 #### [할머니를 부탁해 (메타버스 기반 AI 건강 관리 서비스)](https://github.com/brianhhy/LSPT)
 - **기간:** 2024.04 ~ 2024.10  
-- **성과:** 공모전 입선  
-- **역할:** 팀장  
-- **팀 구성:** 백엔드 개발 3명, 프론트 개발 1명  
 - **서비스:** 비대면 메타버스 기반 건강 관리·상담·모니터링  
-- **주요 기술 및 업무:**  
-  - 프론트 개발: Babylon.js 기반 웹 메타버스 멀티플레이  
-  - 멀티플레이 서버 개발: Spring Framework  
 
 #### [비스꾸리 (AI 기반 관광지 추천 서비스)](https://github.com/hjs1212/2020_hanium_Ai_Tour)
 - **기간:** 2020.03 ~ 2020.10  
-- **성과:** 공모전 입선  
-- **역할:** 백엔드 개발 담당  
-- **팀 구성:** 백엔드 개발 2명, 프론트 개발 1명  
 - **서비스:** 해외 관광지 유사 국내 관광지 추천  
-- **주요 기술 및 업무:**  
-  - 백엔드 서버 개발: Node.js + Express  
-  - 도슨트 서비스 개발: Python  
-  - 클라우드 학습: MS Azure  
 
 
-
-<!--
-**HoyiTT/HoyiTT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
