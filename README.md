@@ -58,7 +58,7 @@
 
 ### 프로젝트
 
-#### [동네한끼](https://github.com/DongneHankki/DongneHankki-BE)
+#### [동네한끼 (배리어프리 마켓지도 SNS)](https://github.com/DongneHankki/DongneHankki-BE)
 - **기간:** 2025.06 ~ 
 - **서비스:** 소상공인을 위한 AI기반 배리어프리 SNS  
 
