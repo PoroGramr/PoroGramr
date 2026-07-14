@@ -1,6 +1,8 @@
 
 <h1 align="center">Hi there 👋 I'm Junseo Park</h1>
 
+[![My GitFut card](https://gitfut.com/PoroGramr.png)](https://gitfut.com/PoroGramr)
+
 <h2 align="center">💻 My tech stacks</h2>
 
 <p align="center">
