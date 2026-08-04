@@ -1,7 +1,11 @@
 
 <h1 align="center">Hi there 👋 I'm Junseo Park</h1>
 
-[![My GitFut card](https://gitfut.com/PoroGramr.png)](https://gitfut.com/PoroGramr)
+<div align="center">
+  <a href="https://gitfut.com/PoroGramr">
+    <img src="https://gitfut.com/PoroGramr.png" alt="My GitFut card" width="400">
+  </a>
+</div>
 
 <h2 align="center">💻 My tech stacks</h2>
 
