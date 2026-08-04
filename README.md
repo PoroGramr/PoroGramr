@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="https://gitfut.com/PoroGramr">
-    <img src="https://gitfut.com/PoroGramr.png" alt="My GitFut card" width="400">
+    <img src="https://gitfut.com/PoroGramr.png?country=KR" alt="My GitFut card" width="400">
   </a>
 </div>
 
