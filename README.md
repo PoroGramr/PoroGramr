@@ -70,8 +70,12 @@
 
 ### 프로젝트
 
+#### [온누리교회 중고등부 출석부](https://github.com/PoroGramr/PW3_Attendance)
+- **기간:** 2025.04 ~ 
+- **서비스:** 교회 주일학교 출석 관리 시스템 - 실시간 출석 체크 및 AI 기반 데이터 분석을 제공하는 엔터프라이즈급 백엔드 시스템
+
 #### [동네한끼 (배리어프리 마켓지도 SNS)](https://github.com/DongneHankki/DongneHankki-BE)
-- **기간:** 2025.06 ~ 
+- **기간:** 2025.06 ~ 2026.02
 - **서비스:** 소상공인을 위한 AI기반 배리어프리 SNS  
 
 #### [VIVIM (웹 에이전시 프로젝트 관리 서비스)](https://github.com/PoroGramr/KDEV4-VIVIM-BE)
