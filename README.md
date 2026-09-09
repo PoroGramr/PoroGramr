@@ -1,53 +1,5 @@
+<img alt="light" src="https://github.com/user-attachments/assets/97aff2f0-608a-45a5-9f4b-75d283b1fe57" />
 
-<h1 align="center">Hi there 👋 I'm Junseo Park</h1>
-
-<div align="center">
-  <a href="https://gitfut.com/PoroGramr">
-    <img src="https://gitfut.com/PoroGramr.png?country=KR" alt="My GitFut card" width="400">
-  </a>
-</div>
-
-<h2 align="center">💻 My tech stacks</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-  <img src="https://img.shields.io/badge/redis-FF4438?style=for-the-badge&logo=redis&logoColor=white">
-  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
-  <img src="https://img.shields.io/badge/sonarqube-4E98CD?style=for-the-badge&logo=sonarqube&logoColor=white">
-  
-</p>
-
-<!-- ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HoyiTT&show_icons=true&theme=radical) -->
-
-<h2 align="center">📖 My Log & Portfolio </h2>
-<p align="center">
-  <a href="https://jspark33.tistory.com"><img src="https://img.shields.io/badge/HoyiTT-E5511E?style=flat-square&logo=Tistory&logoColor=white"/></a>
-  <a href="https://hoyitt.notion.site/80609dd5c3f240e79667424b2cdf4ba2?pvs=4"><img src="https://img.shields.io/badge/HoyiTT-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
-  <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ppp9177" alt="Solved.ac프로필"/>
-</p>
-
-<h2 align="center">⌨️ TIL Last Commit</h2>
-<p align="center">
-  <img src="https://img.shields.io/github/last-commit/PoroGramr/TIL" alt="GitHub last commit"/>
-</p>
-
-<img
-  src="https://render.gitanimals.org/farms/PoroGramr"
-  width="600"
-  height="300"
-/>
-</a>
-</p>
-
-<h3>🟡 Pacman eats my daily GitHub contributions</h3>
-
-<img
-  src="https://raw.githubusercontent.com/PoroGramr/PoroGramr/output/pacman-contribution-graph-dark.svg?v=1"
-/>
-
-* * *
 
 ### 교육 & 경력
 
